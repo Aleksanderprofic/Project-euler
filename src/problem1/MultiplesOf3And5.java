@@ -8,7 +8,6 @@ public class MultiplesOf3And5 {
         ExecutorService executorService = Executors.newSingleThreadExecutor();
 
         Callable<Integer> sumMultiplesOf3 = () -> {
-            System.out.println("In 3");
             int sum = 0;
             for (int i = 3; i < 1000; i += 3) {
                 sum += i;
@@ -18,7 +17,6 @@ public class MultiplesOf3And5 {
         };
 
         Callable<Integer> sumMultiplesOf5 = () -> {
-            System.out.println("In 5");
             int sum = 0;
             for(int i = 5; i < 1000; i += 5) {
                 if(i % 3 != 0) sum += i;
