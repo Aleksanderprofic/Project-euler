@@ -34,7 +34,6 @@ public class MultiplesOf3And5 {
 
         System.out.println(future3.get() + " + " + future5.get() + " = " + wholeSum);
 
-
         executorService.shutdown();
     }
 }
