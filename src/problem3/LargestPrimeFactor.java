@@ -7,7 +7,7 @@ import java.util.TreeSet;
 public class LargestPrimeFactor {
     private static Set<Long> primeFactors = new TreeSet<>();
 
-    private static long nextPrimeNumber(long number) {
+    public static long nextPrimeNumber(long number) {
         boolean found = false;
         if(number == 2) number = 1;
         Long primeFactor;
