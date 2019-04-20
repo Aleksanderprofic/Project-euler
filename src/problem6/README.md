@@ -1,6 +1,6 @@
 The sum of the squares of the first ten natural numbers is,
 
-<p align="center">1^2 + 22 + ... + 102 = 385</p>
+<p align="center">1^2 + 2^2 + ... + 10^2 = 385</p>
 
 The square of the sum of the first ten natural numbers is,
 
