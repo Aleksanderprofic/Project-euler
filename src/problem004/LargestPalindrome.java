@@ -1,4 +1,4 @@
-package problem4;
+package problem004;
 
 public class LargestPalindrome {
     public static void main(String[] args) {

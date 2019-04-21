@@ -1,4 +1,4 @@
-package problem10;
+package problem010;
 
 import java.util.Set;
 import java.util.TreeSet;

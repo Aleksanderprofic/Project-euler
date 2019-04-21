@@ -1,4 +1,4 @@
-package problem9;
+package problem009;
 
 public class SpecialPythagoreanTriplet {
     public static void main(String[] args) {

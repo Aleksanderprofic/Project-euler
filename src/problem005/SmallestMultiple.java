@@ -1,7 +1,7 @@
-package problem5;
+package problem005;
 
 
-import problem3.LargestPrimeFactor;
+import problem003.LargestPrimeFactor;
 
 public class SmallestMultiple {
 

@@ -1,6 +1,6 @@
-package problem7;
+package problem007;
 
-import problem3.LargestPrimeFactor;
+import problem003.LargestPrimeFactor;
 
 public class Prime {
     public static void main(String[] args) {

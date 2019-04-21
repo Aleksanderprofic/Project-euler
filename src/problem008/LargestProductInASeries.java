@@ -1,4 +1,4 @@
-package problem8;
+package problem008;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

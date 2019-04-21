@@ -1,4 +1,4 @@
-package problem3;
+package problem003;
 
 import java.util.Iterator;
 import java.util.Set;
